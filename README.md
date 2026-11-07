@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Devi Madhuri Kollu 👋
 
-<!--
-**DeviMadhuriK/DeviMadhuriK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in Electrical and Electronics Engineering
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌱 Learning and practicing Core Java and SQL
+- 💡 Interested in Software Development and Web Technologies
+- 💻 Knowledge of HTML, CSS and JavaScript
+- 🗄️ Practicing MySQL and database queries
+- 🎯 Looking for entry-level IT opportunities
+
+### Technical Skills
+- Java: Core Java, OOP, Exception Handling, Collections
+- Database: SQL, MySQL
+- Web: HTML, CSS, JavaScript, Bootstrap
+- Concepts: Basic Data Structures
+
+### Projects
+- Frontend Webpage Recreations
+- Wind Turbine Power and Current Limiting Control
+
+### Connect With Me
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kollu-devi-madhuri-266aa1264)
+- Email: devimadhurik@gmail.com
